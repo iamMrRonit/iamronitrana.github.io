@@ -1,0 +1,16 @@
+.align{
+    width: 60%;
+    background-color: rgb(233,233,233);
+    margin-top: 30px;
+    height: 90%;
+    padding: 30px;
+}
+.para{
+    font-size: 20px;
+    text-align:justify;
+    font-family: serif;
+}
+.title1{
+    font-family: 'Quicksand',sans-serif;
+    text-decoration-line: underline;
+}

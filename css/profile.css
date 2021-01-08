@@ -1,0 +1,47 @@
+.profile{
+    margin-top: 30px;
+    width: 50%;
+    background-color: rgb(233,233,233);
+    height: 73%;
+    padding: 35px;
+    
+}
+.profilei{
+    float: left;
+    
+}
+.profilet{
+    float: right;
+    width: 75%;
+    
+}
+.capit{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 990;
+    margin-left: -330px;
+}
+.para{
+    width: 100%;
+    height: 700;
+    font-family: 'Quicksand',sans-serif;
+    font-size: 17px;
+    color: black;
+}
+.column{
+    margin-left: 430px;
+}
+.title1{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 100;
+    text-decoration-line: underline;
+}
+.column1{
+    font-family: 'Quicksand',sans-serif;
+    
+}
+.title2{
+    font-family: 'Montserrat',sans-serif;
+}
+.tablem{
+    margin-left: -20%;
+}

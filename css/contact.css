@@ -1,0 +1,61 @@
+.conform{
+    background-image: url(../img/test.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    
+   
+}
+.form0{
+    background-color: rgba(0,0,0,0.9);
+    width: 99%;
+    height: 760;
+    padding: 60px;
+    padding-top: 90px;
+    
+}
+.form1{
+    font-family: 'Quicksand',sans-serif;
+    color:azure;
+    margin-bottom:70px;
+    font-size: 20px;
+    
+   
+}
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: aliceblue;
+    font-size: 18px;
+}
+.form0{
+    font-family:'Quicksand',sans-serif;
+}
+.contactb{
+    color: aliceblue;
+    float: left;
+}
+.contactb{
+    margin-top: 223px;
+    margin-left: 173px;
+}
+.contactc{
+    margin-left: -263px;
+    font-size: 10px;
+    font-weight: 800;
+}
+.contactd{
+    margin-left: -310px;
+}
+.contacte{
+    margin-left: -105px;
+}
+.contactf{
+    margin-left: 54px;
+    color: rgb(44,128,120);
+    font-weight: 450;
+    font-size: 16px;
+}

@@ -1,0 +1,131 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(248,248,248);  
+}
+.navbar{
+    position:relative;
+    padding: 8px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgb(216,216,216);
+    
+    
+}
+.navi a{
+    color: rgb(49,49,49);
+    text-decoration-line: none;
+    float: right;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+    padding: 5px;
+    padding-right: 75px;
+    
+    margin: 8px; 
+    
+    
+}
+.navi a:hover{
+    color: #BC986A;
+    cursor: pointer;
+    border-bottom-color:#BC986A;
+    font-weight: 400;
+}
+.title a{
+    color: rgb(43,43,43);
+    text-decoration-line: none;
+    font-family: 'Quicksand',sans-serif;
+    font-weight: 990px;
+    font-size: 29px;
+    padding-left: 20px;
+    letter-spacing: 3px;
+    margin: 30px;
+    
+    
+}
+#active{
+    color:#BC986A;   
+
+}
+.title a:hover{
+    
+}
+.frontf{
+    width: 80%;
+    margin-left: 420px;
+    
+}
+.padd{
+    margin-top: 50px;
+}
+.frontt{
+    color: rgb(77,54,43);
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 12px;
+    font-family:fantasy;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+       
+}
+.frontb{
+    color: rgb(77,54,43);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: 'Lora',serif;
+    font-size: 37px;
+    
+}
+.frontb a{
+    font-weight: 650;
+    
+}
+.text{
+    float: left;
+    width: 26%;
+    background-color: rgb(233,233,233);
+    margin-bottom: 10px;
+}
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 380px;
+    padding-bottom: 10px;
+  margin-left: 10px;
+  
+    
+    
+}
+    
+}
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+.size{
+    width:  
+}
+.secc {
+    
+    width: 20%;
+  
+}
+.sectext{
+    float: right;
+    width: 0%;
+}
+.sectext1{
+    font-size: ;
+    font-family: ;
+    background-color: rgb(233,233,233);
+}
+.footer{
+    text-align: center;
+}
+
+

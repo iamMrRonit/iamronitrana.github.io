@@ -1,0 +1,22 @@
+body{
+	background-color: #4da8bd;
+}
+header{
+	background-color:#efdd12;
+	width: 12px;
+	margin:auto;
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+	
+}
+<nav>
+		           <a href="index.html">Home</a>
+		           <a href="contact.html">Contact</a>
+		           <a href="about.html">About</a>
+		</nav>
+		nav a{
+			text-size: 20px;
+			text-decoration:none;
+			color:#0902cd;
+			}
